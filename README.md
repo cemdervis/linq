@@ -18,7 +18,7 @@ It has no dependencies and neatly integrates into the STL by taking advantage of
 
 ## Documentation
 
-The documentation is available on the [home page](https://dervis.de/linq.html).
+The documentation is available on the [home page](https://dervis.de/linq).
 
 [![Linux-Clang](https://github.com/cemdervis/linq/actions/workflows/build-linux-clang.yml/badge.svg)](https://github.com/cemdervis/linq/actions/workflows/build-linux-clang.yml) [![Linux-GCC](https://github.com/cemdervis/linq/actions/workflows/build-linux-gcc.yml/badge.svg)](https://github.com/cemdervis/linq/actions/workflows/build-linux-gcc.yml) [![macOS-AppleClang](https://github.com/cemdervis/linq/actions/workflows/build-macos-appleclang.yml/badge.svg)](https://github.com/cemdervis/linq/actions/workflows/build-macos-appleclang.yml) [![Windows-MSVC](https://github.com/cemdervis/linq/actions/workflows/build-windows-msvc.yml/badge.svg)](https://github.com/cemdervis/linq/actions/workflows/build-windows-msvc.yml)
 
