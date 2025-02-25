@@ -20,8 +20,8 @@ It has no dependencies and neatly integrates into the STL by taking advantage of
 
 ---
 
-- [Download](https://github.com/cemdervis/linq/releases) :octicons-download-16:
-- [Try it on Compiler Explorer](https://godbolt.org/z/8rTzzdEsh) :octicons-link-external-16:
+- [Download](https://github.com/cemdervis/linq/archive/refs/tags/v0.9.0.zip) :octicons-download-16:
+- [Try it on Compiler Explorer](https://godbolt.org/z/193YjTebf) :octicons-link-external-16:
 - [GitHub](https://github.com/cemdervis/linq) :octicons-link-external-16:
 - [License](license.md) :material-copyright:
 
