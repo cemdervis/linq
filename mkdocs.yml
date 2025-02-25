@@ -6,6 +6,7 @@ copyright: Copyright &copy; 2015 - 2025 Cem Dervis
 theme:
   name: material
   logo: img/icon.png
+  favicon: img/icon.png
   font:
     text: Nunito Sans
     code: JetBrains Mono

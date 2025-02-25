@@ -20,7 +20,7 @@ It has no dependencies and neatly integrates into the STL by taking advantage of
 
 ---
 
-- [Download](linq-1.0.0.zip) :octicons-download-16:
+- [Download](https://github.com/cemdervis/linq/releases) :octicons-download-16:
 - [Try it on Compiler Explorer](https://godbolt.org/z/8rTzzdEsh) :octicons-link-external-16:
 - [GitHub](https://github.com/cemdervis/linq) :octicons-link-external-16:
 - [License](license.md) :material-copyright:
